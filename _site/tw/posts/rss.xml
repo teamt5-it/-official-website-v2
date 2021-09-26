@@ -1,0 +1,585 @@
+<?xml version="1.0" ?>
+  <rss version="2.0">
+    <channel>
+        <title>Team T5 Blog</title>
+        <link>https://teamt5.org/tw/blog</link>
+        <description>TeamT5 Blog</description>
+        <language>en</language>
+        <lastBuildDate>Tue, 21 Sep 2021 11:30:00 GMT</lastBuildDate>
+          
+      <item>
+        <title>TeamT5 杜浦數位安全針對假新聞攻擊之澄清</title>
+        <link>https://teamt5.org/tw/posts/clarification-on-malicious-disinformation-targeting-teamt5</link>
+
+        <pubDate>Tue, 21 Sep 2021 11:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>圖片來源：<a href="https://www.freepik.com/">Freepik</a></p>
+<p>正值中秋連假之際，某特定內容農場開始散播關於 TeamT5 的謠言。該謠言以日文撰寫，其內容指稱TeamT5 對日本政府與各大日本企業進行釣魚攻擊並大量收集個人資訊云云。</p>
+<p>TeamT5 在此嚴正聲明，前開網路謠言絶非事實，TeamT5 從未從事任何網路攻擊的行動，更不會接受任何客戶委託進行網路攻擊之行為。</p>
+<p>TeamT5 追查後發現，該造謠者係利用內容農場商業模式讓該不實內容於中文和日文的內容農場偕同轉發。但該內容不僅偽造釣魚信件的截圖，其內更有大量日文文法錯誤與錯字，還有許多中文詞彙假冒在其中，種種跡象均顯示該謠言撰稿者係偽冒成日文母語人士撰寫日文新聞稿。</p>
+<p>初步分析後，TeamT5 情資團隊認為這起謠言的手法符合我們過往研究的國家級駭客散播不實新聞的戰術、技術和流程（Tactics, Techniques, and Procedures, TTPs）。目前 TeamT5 已將相關分析與證據備份，並已通報請台日雙邊的調查單位協助偵查。</p>
+<p>謹再次重申，TeamT5 自創立以來，協助所有的客戶與夥伴阻擋各類網路威脅。我們過去、現在以及未來都不會主動發起或接受委託從事任何網路攻擊活動。</p>
+<blockquote>
+<p>Contact: <a href="mailto:&#80;&#82;&#64;&#x74;&#x65;&#97;&#109;&#x74;&#53;&#46;&#x6f;&#x72;&#x67;">&#80;&#82;&#64;&#x74;&#x65;&#97;&#109;&#x74;&#53;&#46;&#x6f;&#x72;&#x67;</a></p>
+</blockquote>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【CIO Taiwan】TeamT5 杜浦數位安全 雙管齊下助企業抵禦威脅</title>
+        <link>https://teamt5.org/tw/posts/threatsonar-with-threatvision-to-combat-cyber-threats</link>
+
+        <pubDate>Mon, 13 Sep 2021 02:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>本資料轉載自 <a href="https://www.cio.com.tw/">CIO IT 經理人</a> | 採訪／施鑫澤・文／林裕洋</p>
+<h2 id="threatsonar-搭配-threatvision-雙劍合璧">ThreatSonar 搭配 ThreatVision 雙劍合璧</h2>
+<blockquote>
+<p>勒索軟體與 APT 攻擊手法非常類似，企業唯有全面性解決，並在防堵威脅時同步擬定執行策略，才能讓人員更有效進行處理。</p>
+</blockquote>
+<br>
+
+<p>根據 TeamT5 杜浦數位安全威脅情資研究團隊觀察，REvil 駭客組織從去年（2020）開始所進行的一連串國內外資安重大威脅事件的動作來看，透過加密勒索軟體的攻擊手法是全球所關注且警覺到此狀況不容小覷。從今年上半年累計統計至七月份遭受 REvil 勒索軟體攻擊的受害對象浮出檯面上的至少有五、六起事件發生，對於尚未浮出台面的受害事件還不知道有多少。</p>
+<p>以台灣為例，向來位居全球領導地位的高科技製造業，以往由於行事低調，甚少被駭客組織注意，近兩年駭客組織逐漸將勒索軟體的工具目標鎖定台灣高科技製造業，因此市場上陸續多家業者傳出遭遇勒索軟體攻擊的事件，且被駭客要求支付天價的高額贖金，甚至部分駭客組織為了脅迫受害企業支付贖金，將所竊取部分重要機敏的資料在地下市場公開，迫使讓企業進入支付贖金。根據資安專家進行事後調查發現，遭到同一個駭客組織採用REvil勒索軟體攻擊的受害業者多數為大型跨國企業，一旦這些企業受害其對於企業營運的影響面則會相當顯著，也因此勒索軟體的攻擊成為國內外大企業在面臨資安部署的防禦上最為之戒慎恐懼的一環。</p>
+<p>TeamT5 杜浦數位安全創辦人兼執行長蔡松廷指出，若是以事件處理的角度來看，勒索軟體與 APT 進階持續性威脅（Advanced Persistent Threat, APT）攻擊手法非常類似，唯一不同之處是駭客組織藉著勒索軟體攻擊進行勒索受害者並且以獲得一定高額贖金為目標。蔡松廷強調面對勒索軟體、APT 等攻擊手法，企業唯有以全面性思維規畫並在威脅攻擊之際，同步擬定與執行防堵策略，甚或精準部署防護策略捷足先登避免攻擊事件的發生。</p>
+<p>蔡松廷進一步強調，以目前 TeamT5 杜浦數位安全所推出的勒索軟體全面防禦策略，採用能有效偵測出 APT 針對型攻擊的 ThreatSonar 威脅狩獵解決方案與目前企業現有的資安解決方案，兩者相互合作中強化與增進企業資安全面部署的完備。</p>
+<br>
+
+<h2 id="技術、經驗兼具-提供全方位服務">技術、經驗兼具 提供全方位服務</h2>
+<p>專精於網路惡意入侵行為分析與追蹤的 TeamT5 杜浦數位安全是台灣頂尖網路威脅情資研究機構之一，憑藉著豐富網駭情資研究與擁有世界級研發團隊全面致力於端點資安防護解決方案（Endpoint Protection Solutions）的開發、提供高度機器學習能力（Machine Learning）與人工智慧（AI）端點惡意程式鑑識系統 - ThreatSonar 外，也深入從事各類資安事件處理與調查服務，讓國內企業能享有最即時的技術支援與顧問諮詢服務。</p>
+<p>蔡松廷表示目前公司的威脅情資分析團隊成員平均擁有十年以上的惡意程式與 APT 研究經歷，再加上語言及文化優勢，所以 TeamT5 杜浦數位安全對亞太地區的 APT 駭客族群有著深入瞭解與研究，尤其針對來自中國的 APT 攻擊，我們掌握更多作案細節與手法且具備事件後續追查的優勢，至於核心技術團隊部分，則精通底層作業系統分析、深度逆向分析與先進安全技術，因為具備專業技術與研究能力，加上積極研發最新的偵測方式，因此 ThreatSonar 威脅狩獵解決方案是具備穩定性、精準偵測攻擊者的威脅功能機制。</p>
+<p>資安事件防護除了事前緊密的防禦外，對於即時資安事件發生當下或事後所需要進行迅速應變且適當策略與反應，這塊部署拼圖對於企業也是關注的一塊，有了此策略將可以大幅降低不論是人力、金額或是商譽的損失。蔡松廷表示，以 TeamT5 杜浦數位安全來說也有一個長年經驗豐富的 IR（Incident Response 事件應變）鑑識團隊，長期研究與解析駭客族群入侵行為並且具備處理第一線國內外資安事件的經驗，當資安事件發生時，TeamT5 IR 鑑識團隊可以快速完成企業受駭現場與歷史軌跡的綜整分析，並且發掘出攻擊者的入侵過程與手法，提供事件處理深入的分析及建議，進一步協助企業進行復原與改善。</p>
+<br>
+
+<h2 id="apt-威脅狩獵方案-threatsonar-功能強悍">APT 威脅狩獵方案 ThreatSonar 功能強悍</h2>
+<p>面對日趨複雜與氾濫的 APT 攻擊，TeamT5 杜浦數位安全推出的 ThreatSonar 威脅狩獵解決方案可提供進階的威脅獵捕方案，協助企業覺察環境中可疑威脅。ThreatSonar 具備入侵威脅評估的功能，結合數位鑑識與行為模型技術，可快速偵測與鎖定異常行為，辨識環境中的入侵威脅，以圖形視覺化方式呈現威脅事件，更有效幫助企業進行資安事件追蹤與關聯。</p>
+<p>在威脅事件回應方面，ThreatSonar 具備情資驅動特性與自動調查功能，可主動發現符合駭客族群常用 TTPs 的隱藏威脅，提升資安事件調查效率，至於託管式偵測與回應服務部分，ThreatSonar 可持續觀察端點的風險狀況，並由專家團隊協助進行入侵威脅通報、抑制與回應處理，強化企業的資安事件應變能力。</p>
+<p>「大部份資安產品從預防角度出發，但仍抵擋不住攻擊者，企業依然持續遭受入侵威脅。」蔡松廷解釋：「ThreatSonar 以 TeamT5 杜浦數位安全團隊長期研究的威脅情資為核心進行研發，內建超過 100 種惡意行為指標與上千種已知後門特徵，協助企業掌握攻擊者在受駭階段中的入侵軌跡。」</p>
+<br>
+
+<h2 id="掌握威脅情資-threatvision-不容錯過">掌握威脅情資 ThreatVision 不容錯過</h2>
+<p>TeamT5 杜浦數位安全提供 APT 防禦方案之外，也提供 ThreatVision 雙向平台，ThreatVision 是介面直觀、易操作的強大情資資料庫，協助企業洞悉駭客活動，提升企業威脅防禦能量，讓企業可藉此獲取情資專家針對特殊個案的獨特分析報告。ThreatVision 平台提供沙箱動態分析、關鍵字搜尋、APT 威脅情資庫、自動化 API 等服務，還有專業人員線上諮詢回應威脅情資問題，提供威脅情資與樣本關鍵字搜尋，以滿足企業威脅風險調查需求。</p>
+<p>蔡松廷表示，ThreatVision 是我們聚焦亞太地區的全球駭客追蹤調查，長期追蹤各類型產業為目標的 APT 駭客族群的成果，能提供豐富的開源威脅情資分析服務，協助企業降低威脅風險，同時平台可辨認與追蹤超過 100 個攻擊族群與上千個惡意程式家族，因此是企業掌握最新情資的最佳管道。</p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>又見 REvil？！看駭客如何利用 REvil 同款加密勒索程式湮滅攻擊證據</title>
+        <link>https://teamt5.org/tw/posts/revil-dll-sideloading-technique-used-by-other-hackers</link>
+
+        <pubDate>Fri, 20 Aug 2021 07:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>圖片來源：<a href="https://pixabay.com/illustrations/ransomware-wannacry-malware-2318381/">Pixabay</a></p>
+<br>
+
+<p>TeamT5 近期於台灣某企業環境取得一加密勒索惡意程式（Ransomware），該惡意程式與日前美國託管軟體開發業者 Kaseya 遭到駭客組織 REvil 入侵，進而產生供應鏈攻擊事件（Supply Chain Attack）密切相關。難道是近日忽然神秘消失的 REvil 又整裝上陣，再度發動攻擊？</p>
+<p>TeamT5 在這起事件中調查發現，該加密勒索惡意程式具有檔案數位簽章，可藉此躲避防毒軟體的偵測。同時也會利用早期 Windows 防毒產品的漏洞，執行 DLL Side-Loading，繞過安全檢查，載入惡意程式本體。執行工作前，會使用 RC4 演算法解密一組態設定檔，並於加密檔案階段，使用 Salsa20 和 AES 兩種演算法來加密檔案。</p>
+<p>TeamT5 深入調查，確定該企業並未採用 Kaseya 所提供之服務，且該受害環境存在多起駭客入侵攻擊事件。此外，該加密勒索程式所觸發的條件與 Kaseya 供應鏈攻擊事件有所區別，故 TeamT5 推測是攻擊者在入侵得手後，利用 REvil 加密勒索程式來煙滅犯罪現場證據之用。</p>
+<br>
+
+<h2 id="樣本分析">樣本分析</h2>
+<p>sample.exe 為 TeamT5 所掌握取得之惡意程式，具備數位簽章（digital signature），簽署人名稱為 PB03 TRANSPORT LTD.。目前該憑證已被簽發者宣告撤銷，據信，該簽章憑證為駭客攻擊前所竊取而來。所對應 MITRE 的攻擊手法編號為 T1553.002。數位簽章資訊詳見下圖一。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269616/2108_1_70fa5416a0.png" alt="2108-1.png">
+<em>圖一、sample.exe 具有數位簽章（已遭宣告撤銷）</em></p>
+<br>
+
+<p>sample.exe 除了具有檔案數位簽章之外，同時也是個 Dropper。在其檔案資源區塊中，具有兩個資源檔 MODLIS.RG 與 SOFTIS.RG。檔案執行之後，會分別在 C:\Windows\ 路徑下建立 mpsvc.dll 與 MsMpEng.exe，如圖二。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269616/2108_2_228ada60f2.png" alt="2108-2.png">
+<em>圖二、sample.exe 會從資源區塊產生 mpsvc.dll 與 MsMpEng.exe</em></p>
+<br>
+
+<p>MsMpEng.exe 為 Windows 早期版本（版本號為 4.5.0218.0）之防毒軟體程式，其檔案時間戳記為 2014/03/24 09:34。此 MsMpEng.exe 有 DLL 側載（DLL Side-Loading）漏洞，駭客利用合法程式來載入惡意本體 mpsvc.dll，為典型的白加黑攻擊手法，所對應 MITRE 的攻擊手法編號為 T1574.002。MsMpEng.exe 的檔案資訊詳見下圖三。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269617/2108_3_204dc45958.png" alt="2108-3.png">
+<em>圖三、MsMpEng.exe 的檔案資訊與檔案簽章</em></p>
+<br>
+
+<p>根據 mpsvc.dll 的導出表，會透過 Windows 防毒程式來呼叫 mpsvc.dll，並透過 <code>ServiceCrtMain</code> 函式來執行。執行後，mpsvc.dll 會建立一個執行緒（Thread），並透過 <code>CreateFileMappingW</code> 函式來載入二階段惡意 Shellcode。接著，使用 <code>VirtualAllocEx</code> 函式來分配記憶體的讀/寫/執行區域，供 Shellcode 將加密勒索核心功能載入記憶體中。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269617/2108_4_698c5d81c3.png" alt="2108-4.png">
+<em>圖四、mpsvc.dll 使用 <code>CreateFileMappingW</code> 和 <code>VirtualAllocEx</code> 函式載入惡意程式核心</em></p>
+<br>
+
+<p>加密勒索核心透過解碼一系列已編碼的 DLL 檔案，開始驗證和解密 JSON 格式之組態設定檔（Config）。TeamT5 長期追蹤 REvil 駭客族群，發現他們廣泛使用 CRC32 演算法來驗證檔案的完整性，並使用 RC4 演算法來解密。在此案例中，加密勒索程式所使用的 RC4 解密金鑰為 <code>mXT1QFyEUbrxc4cbP84jbN5wrHeqmFXt</code>，解密後的組態設定檔詳見以下範例：</p>
+<pre><code class="language-json{">&quot;pk&quot;:&quot;9/AgyLvWEviWbvuayR2k0Q140e9LZJ5hwrmto/zCyFM=&quot;,
+&quot;pid&quot;:&quot;$2a$12$prOX/4eKl8zrpGSC5lnHPecevs5NOckOUW5r3s4JJYDnZZSghvBkq&quot;,
+&quot;sub&quot;:&quot;8254&quot;,
+&quot;dbg&quot;:false,
+&quot;et&quot;:0,
+&quot;wipe&quot;:true,
+&quot;wht&quot;:{&quot;fld&quot;:[&quot;program files&quot;,&quot;appdata&quot;,&quot;mozilla&quot;,&quot;$windows.~ws&quot;,&quot;application data&quot;,&quot;$windows.~bt&quot;,&quot;google&quot;,&quot;$recycle.bin&quot;,&quot;windows.old&quot;,&quot;programdata&quot;,&quot;system volume information&quot;,&quot;program files (x86)&quot;,&quot;boot&quot;,&quot;tor browser&quot;,&quot;windows&quot;,&quot;intel&quot;,&quot;perflogs&quot;,&quot;msocache&quot;],
+&quot;fls&quot;:[&quot;ntldr&quot;,&quot;thumbs.db&quot;,&quot;bootsect.bak&quot;,&quot;autorun.inf&quot;,&quot;ntuser.dat.log&quot;,&quot;boot.ini&quot;,&quot;iconcache.db&quot;,&quot;bootfont.bin&quot;,&quot;ntuser.dat&quot;,&quot;ntuser.ini&quot;,&quot;desktop.ini&quot;],
+&quot;ext&quot;:[&quot;ps1&quot;,&quot;ldf&quot;,&quot;lock&quot;,&quot;theme&quot;,&quot;msi&quot;,&quot;sys&quot;,&quot;wpx&quot;,&quot;cpl&quot;,&quot;adv&quot;,&quot;msc&quot;,&quot;scr&quot;,&quot;bat&quot;,&quot;key&quot;,&quot;ico&quot;,&quot;dll&quot;,&quot;hta&quot;,&quot;deskthemepack&quot;,&quot;nomedia&quot;,&quot;msu&quot;,&quot;rtp&quot;,&quot;msp&quot;,&quot;idx&quot;,&quot;ani&quot;,&quot;386&quot;,&quot;diagcfg&quot;,&quot;bin&quot;,&quot;mod&quot;,&quot;ics&quot;,&quot;com&quot;,&quot;hlp&quot;,&quot;spl&quot;,&quot;nls&quot;,&quot;cab&quot;,&quot;exe&quot;,&quot;diagpkg&quot;,&quot;icl&quot;,&quot;ocx&quot;,&quot;rom&quot;,&quot;prf&quot;,&quot;themepack&quot;,&quot;msstyles&quot;,&quot;lnk&quot;,&quot;icns&quot;,&quot;mpa&quot;,&quot;drv&quot;,&quot;cur&quot;,&quot;diagcab&quot;,&quot;cmd&quot;,&quot;shs&quot;]},
+&quot;wfld&quot;:[&quot;backup&quot;],
+&quot;prc&quot;:[&quot;encsvc&quot;,&quot;powerpnt&quot;,&quot;ocssd&quot;,&quot;steam&quot;,&quot;isqlplussvc&quot;,&quot;outlook&quot;,&quot;sql&quot;,&quot;ocomm&quot;,&quot;agntsvc&quot;,&quot;mspub&quot;,&quot;onenote&quot;,&quot;winword&quot;,&quot;thebat&quot;,&quot;excel&quot;,&quot;mydesktopqos&quot;,&quot;ocautoupds&quot;,&quot;thunderbird&quot;,&quot;synctime&quot;,&quot;infopath&quot;,&quot;mydesktopservice&quot;,&quot;firefox&quot;,&quot;oracle&quot;,&quot;sqbcoreservice&quot;,&quot;dbeng50&quot;,&quot;tbirdconfig&quot;,&quot;msaccess&quot;,&quot;visio&quot;,&quot;dbsnmp&quot;,&quot;wordpad&quot;,&quot;xfssvccon&quot;],
+&quot;dmn&quot;:&quot;boisehosting.net;fotoideaymedia.es;dubnew.com;stallbyggen.se;TRIMMED&quot;,
+&quot;net&quot;:false,
+&quot;svc&quot;:[&quot;veeam&quot;,&quot;memtas&quot;,&quot;sql&quot;,&quot;backup&quot;,&quot;vss&quot;,&quot;sophos&quot;,&quot;svc$&quot;,&quot;mepocs&quot;],
+&quot;nbody&quot;:&quot;BASE64_ENCODED_RANSOM_NOTE&quot;,
+&quot;nname&quot;:&quot;{EXT}-readme.txt&quot;,
+&quot;exp&quot;:false,
+&quot;img&quot;:&quot;QQBsAGwAIABvAGYAIAB5AG8AdQByACAAZgBpAGwAZQBzACAAYQByAGUAIABlAG4AYwByAHkAcAB0AGUAZAAhAA0ACgANAAoARgBpAG4AZAAgAHsARQBYAFQAfQAtAHIAZQBhAGQAbQBlAC4AdAB4AHQAIABhAG4AZAAgAGYAbwBsAGwAbwB3ACAAaQBuAHMAdAB1AGMAdABpAG8AbgBzAAAA&quot;,
+&quot;arn&quot;:false,
+&quot;rdmcnt&quot;:0}
+</code></pre>
+<br>
+
+<p><strong>部分組態設定檔說明</strong></p>
+<table>
+<thead>
+<tr>
+<th>欄位</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>pk</td>
+<td>經過 Base64 編碼後的金鑰</td>
+</tr>
+<tr>
+<td>fld</td>
+<td>避免加密的資料夾名稱</td>
+</tr>
+<tr>
+<td>fls</td>
+<td>避免加密的檔案名稱</td>
+</tr>
+<tr>
+<td>ext</td>
+<td>會被加密的檔案格式</td>
+</tr>
+<tr>
+<td>prc</td>
+<td>加密前會強制關閉的程序名稱</td>
+</tr>
+<tr>
+<td>dmn</td>
+<td>中繼站位址</td>
+</tr>
+<tr>
+<td>svc</td>
+<td>加密前會強制停止的服務名稱</td>
+</tr>
+</tbody></table>
+<br>
+
+<p>待加密勒索核心解析組態設定檔後，會搜集並儲存該受害主機的基本資訊，包含帳號、主機名稱、網域名稱、Windows 版本名稱等。同時，該加密勒索程式具有 <code>-nolan</code>、<code>-nolocal</code>、<code>-path</code>、<code>-silent</code>、<code>-smode</code>、<code>-fast</code> 及 <code>-full</code> 等參數可供使用。</p>
+<p>如果使用 <code>-smode</code> 模式，會將當前帳號和密碼更改為 <code>DTrump4ever</code>，並設定登入後自動執行。但若使用 <code>-silent</code> 模式，則會從組態設定檔中將 <code>svc</code> 區塊中的服務停止並刪除，也將 <code>prc</code> 區塊中的程序終止，以及使用 WMI 刪除磁碟區陰影複製檔（Shadow Copy File）。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269617/2108_5_ff3367629a.png" alt="2108-5.png">
+<em>圖五、smode 模式的程式分析畫面</em></p>
+<br>
+
+<p>開始執行檔案加密前，加密勒索核心會檢查互斥變數（Mutex），以確保沒有其他加密勒索核心也在運行，確定加密過程可順利進行。在執行階段，加密勒索程式會清空電腦主機的資源回收桶，並嘗試建立本機防火牆規則 <code>netsh advfirewall firewall set rule group=&quot;Network Discovery&quot; new enable=Yes</code>。</p>
+<p>接著，破壞過程會使用多個演算法進行加密，例如 Salsa20 與 AES。在加密過程中，會忽略組態設定檔中 <code>ext</code> 區塊中的檔案副檔名，避免受害主機完全無法開機的狀況發生。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269616/2108_6_8b5ef17c27.png" alt="2108-6.png">
+<em>圖六、加密演算法使用 Salsa20 和 AES</em></p>
+<br>
+
+<p>待惡意程式開始加密檔案時，勒索訊息也會同步建立在每個資料夾路徑下，其檔案類型為文字格式（.txt），檔名則為隨機亂數產生的小寫英文與數字組合，並加上 <code>-readme</code> 做為後綴（suffix）字元。其勒索訊息內容如下圖七所示。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1629269623/2108_7_44da5ddd34.png" alt="2108-7.png">
+<em>圖七、勒索訊息內容</em></p>
+<br>
+
+<p>在加密檔案之後，加密勒索程式會連線至組態設定檔中的中繼站，並使用 HTTP POST 方法回傳如 REvil 版本、作業系統版本、語言及組態設定檔的值等資訊。回傳中繼站的 URL 會採用隨機產生的關鍵字，如 WordPress 等服務，將流量偽裝成合法請求。其 URL 格式如下：</p>
+<p><code>https:\/\/&lt;C2Domain&gt;\/(wp-content|static|content|include|uploads|news|data|admin)\/(images|pictures|image|temp|tmp|graphic|assets|pics|game)\/([a-z]{2}){10}\.(jpg|png|gif)</code></p>
+<br>
+
+<h2 id="ioc-入侵指標">IoC 入侵指標</h2>
+<p>TeamT5 彙整此次加密勒索攻擊事件的 IoC（Indicators of Compromise）資訊，建議用戶可將此份威脅指標情資，匯入各式偵測阻擋設備中使用，強化威脅防護。</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Value</th>
+<th>檔名</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>MD5</td>
+<td>561CFFBABA71A6E8CC1CDCEDA990EAD4</td>
+<td>sample.exe</td>
+<td>REvil Dropper</td>
+</tr>
+<tr>
+<td>MD5</td>
+<td>A47CF00AEDF769D60D58BFE00C0B5421</td>
+<td>mpsvc.dll</td>
+<td>REvil Loader</td>
+</tr>
+<tr>
+<td>MD5</td>
+<td>3AD14947002E57887B82643D729C21AE</td>
+<td>n/a</td>
+<td>REvil Shellcode</td>
+</tr>
+<tr>
+<td>MD5</td>
+<td>6A044F92F8DDDAD2AE0FF213215FE576</td>
+<td>n/a</td>
+<td>REvil Payload</td>
+</tr>
+<tr>
+<td>SHA-1</td>
+<td>5162F14D75E96EDB914D1756349D6E11583DB0B0</td>
+<td>sample.exe</td>
+<td>REvil Dropper</td>
+</tr>
+<tr>
+<td>SHA-1</td>
+<td>656C4D285EA518D90C1B669B79AF475DB31E30B1</td>
+<td>mpsvc.dll</td>
+<td>REvil Loader</td>
+</tr>
+<tr>
+<td>SHA-1</td>
+<td>8DA8E1DB4367BFFFB8DFF6828619DC3C2A444FFE</td>
+<td>n/a</td>
+<td>REvil Shellcode</td>
+</tr>
+<tr>
+<td>SHA-1</td>
+<td>89BA0D748EF30E7D4FACDBC74CA701B24F3ACEDB</td>
+<td>n/a</td>
+<td>REvil Payload</td>
+</tr>
+<tr>
+<td>SHA-256</td>
+<td>D55F983C994CAA160EC63A59F6B4250FE67FB3E8C43A388AEC60A4A6978E9F1E</td>
+<td>sample.exe</td>
+<td>REvil Dropper</td>
+</tr>
+<tr>
+<td>SHA-256</td>
+<td>8DD620D9AEB35960BB766458C8890EDE987C33D239CF730F93FE49D90AE759DD</td>
+<td>mpsvc.dll</td>
+<td>REvil Loader</td>
+</tr>
+<tr>
+<td>SHA-256</td>
+<td>C8768D4A4979D4B5AB4E841FC29523D8D80C52D6E89F345A0A44E75973F3D3AF</td>
+<td>n/a</td>
+<td>REvil Shellcode</td>
+</tr>
+<tr>
+<td>SHA-256</td>
+<td>F92CD77D38EC7A2E3CDB5CAC083258424F920F3104BC710E60AEE5CE4BC4B867</td>
+<td>n/a</td>
+<td>REvil Payload</td>
+</tr>
+</tbody></table>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>「勒」此不疲，IE 真調皮</title>
+        <link>https://teamt5.org/tw/posts/internet-explorer-the-vulnerability-ridden-browser</link>
+
+        <pubDate>Wed, 21 Jul 2021 03:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>By Tom, Peter &amp; Jason3e7 | 圖片來源：<a href="https://pixabay.com/illustrations/browser-web-www-computer-773273/">Pixabay</a></p>
+<p>近期全球籠罩在勒索軟體的威脅下，大到法人企業、小至個人用戶，無一倖免。從針對式的 APT 攻擊（Advanced Persistent Threat，進階持續性攻擊）到各式網路犯罪組織，使用的勒索手法越發精湛與多樣化，並發展出 Ransomware as a Service（RaaS）商業模式，實現了「一時勒索一時爽，一直勒索一直爽」的勒索大業。</p>
+<p>本次分析的案例，攻擊手法屬於較被動的方式，透過微軟瀏覽器 IE （Internet Explorer）的弱點來進行勒索，而非從企業的脆弱點進行攻擊，進而入侵到核心系統大量散布勒索軟體。這種「願者上鉤」的攻擊方式，攻擊者等待受害單位使用 IE 瀏覽器造訪惡意網站，再發動攻擊、達成目的。</p>
+<h2 id="技術分析">技術分析</h2>
+<p>tenki[.]tw 早期是用來提供氣象資訊的網站，根據我們的研究，推測可能遭攻擊者註冊，當使用者造訪該網站時，將進行兩次轉址，經過兩個廣告公司網站後，最終轉至惡意網站，流程如下圖。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073503/IE_1_9c89756204.png" alt="IE_1.png"></p>
+<br>
+
+<p>其中 {random}.doetax.site 包含以下已經過程式碼混淆（Obfuscation）的 JavaScript：</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073503/IE_2_75720d835e.png" alt="IE_2.png"></p>
+<br>
+
+<p>經過解碼還原後，可以確定攻擊 payload 會使用 URL 進行 XOR，再使用 execScript 來執行編碼過的 JavaScript，如下圖：</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073501/IE_3_7834571d0f.png" alt="IE_3.png"></p>
+<br>
+
+<p>該編碼過的 JavaScript 使用的是 CVE-2020-0968 來針對 IE 瀏覽器進行攻擊。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073500/IE_4_d1df7d6427.png" alt="IE_4.png"></p>
+<br>
+
+<p>執行惡意程式碼後，攻擊者會再依據取得的權限不同，將使用者連線到不同的網址，如下圖：</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073500/IE_5_8167c3864c.png" alt="IE_5.png"></p>
+<br>
+
+<p>若取得是高權限，則會直接到 hxxp://1fbw726f22j65y.doetax.site/ 取得勒索軟體，否則會先到 hxxp://2oct37evecvdw72y0b.doetax.site/ 下載惡意程式，提權後連線到 hxxp://1fbw726f22j65y.doetax.site/  取得勒索軟體，如下圖所示。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073497/IE_6_8cf56ced86.png" alt="IE_6.png"></p>
+<br>
+
+<p>經分析後確定勒索軟體為 Magniber，該惡意程式使用 AES CBC mode 加密檔案（key, IV: 128），加密完成後，會使用 RSA 演算法加密 key 與 IV，加密後的 blob 會放在加密檔案的最後面（長度：100h）。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073496/IE_7_8d674f100c.png" alt="IE_7.png"></p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073493/IE_8_b0ab9e49b9.png" alt="IE_8.png"></p>
+<br>
+
+<p>另外我們也發現，除了使用 CVE-2020-0968 來攻擊外，也有使用 CVE-2021-26411 進行勒索攻擊的情境。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073491/IE_9_a0a080b8f8.png" alt="IE_9.png"></p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073491/IE_10_36fdab639d.png" alt="IE_10.png"></p>
+<br>
+
+<p>我們進一步探討網站轉址狀況可以發現，攻擊者會利用免費資源網站來吸引使用者瀏覽，同時利用一透明框架覆蓋於網站上，讓使用者點擊，進而達成轉址目的。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073490/IE_11_080a2e35e5.png" alt="IE_11.png"></p>
+<br>
+
+<p>轉跳後的網站如下圖：</p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073490/IE_12_9549f3a339.png" alt="IE_12.png"></p>
+<br>
+
+<p>雖然該網站並不會植入勒索軟體，但會使用 CVE-2019-1367 弱點來植入其他的後門，另外，雖然在 IE11、IE10 和 IE9 使用 Jscript9.dll，並不受 CVE-2019-1367 漏洞的影響，但可以強制 IE 使用 IE8 兼容模式，來達成漏洞的觸發。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073490/IE_13_9dff2ee47b.png" alt="IE_13.png"></p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1626073491/IE_14_247f61ede7.png" alt="IE_14.png"></p>
+<h2 id="結論">結論</h2>
+<p>上述案例皆為採證 IE 的連線紀錄後所發現，攻擊者透過 IE 瀏覽器的漏洞來達到攻擊目的，包含勒索或者植入其他後門程式。攻擊者透過這些弱點進行記憶體操作的攻擊，可以有效實踐無檔案式（Fileless）攻擊，以利規避一些資安產品偵測的可能性。</p>
+<p>微軟官方也預計於 2022 年 6 月 25 日，徹底終止支援 IE 瀏覽器，接下來我們也可以預期，若 IE 將來仍被發現存在重大弱點時，攻擊者可能會依循類似手法，大量進行攻擊、勒索，以達到其商業利益。</p>
+<h2 id="建議">建議</h2>
+<ul>
+<li>建議將系統安全性更新至最新版本</li>
+<li>建議評估汰換已停止更新的作業系統與軟體</li>
+<li>非必要不使用 IE 瀏覽器</li>
+</ul>
+<h2 id="參考資料">參考資料</h2>
+<p>[1] <a href="https://asec.ahnlab.com/en/19273/">https://asec.ahnlab.com/en/19273/</a></p>
+<p>[2] <a href="https://asec.ahnlab.com/en/21189/">https://asec.ahnlab.com/en/21189/</a></p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>北韓駭客組織再次利用 VPN 零時差漏洞對南韓航太產業發動攻擊</title>
+        <link>https://teamt5.org/tw/posts/another-clouddragon-attack-abusing-vpn-zero-day-vulnerability-to-target-south-korean-entities</link>
+
+        <pubDate>Thu, 01 Jul 2021 02:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>圖片來源：<a href="https://pixabay.com/illustrations/north-korea-dprk-korea-juche-asia-1151137/">Pixabay</a></p>
+<p>北韓 APT 攻擊族群 CloudDragon（又名為 Kimsuky）持續針對南韓政府與組織發動攻擊。 TeamT5 長期持續關注此駭客族群，發現 CloudDragon 近期利用 VPN 零時差漏洞（zero-day vulnerability）對南韓發動另一波新的攻擊。</p>
+<p>根據 TeamT5 近期研究，我們發現了兩個攻擊南韓的惡意程式樣本，與我們最新發現的後門程式 MemzipRAT 有高度關聯，皆為其安裝程式。我們推測這一波攻擊是針對南韓某航太產業公司而來，該受駭公司為南韓前十大企業之一，業務範圍涵蓋航太、化學、金融、IT 服務等。攻擊者利用一尚未揭露的  VPN 伺服器漏洞，駭進目標環境並部署惡意程式。</p>
+<p>最近多起針對韓國的攻擊，包括南韓政府研究單位受駭，也疑似為 CloudDragon 透過 VPN 服務漏洞展開的入侵行動。根據 TeamT5 掌握的相關情資，我們有高度信心認為，這次攻擊使用的新後門程式為 CloudDragon VPN 攻擊的後續利用。我們推測，攻擊者將持續利用此知名 VPN 系統漏洞，發動更大型、損害更嚴重的攻擊，未來也不排除轉變為供應鏈攻擊的可能。</p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>CloudDragon's Campaign: VPN Zero-day Vulnerability + New Backdoor</title>
+        <link>https://teamt5.org/tw/posts/clouddragon-campaign-vpn-zero-day-vulnerability-new-backdoor</link>
+
+        <pubDate>Wed, 30 Jun 2021 10:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://pixabay.com/photos/flag-banner-nation-emblem-country-2528969/">Pixabay</a></p>
+<p>TeamT5 recently discovered two installers of a newly identified backdoor which we named MemzipRAT. The backdoor is named after an embedded string &quot;get module from cmd memzip : %d&quot; inside the PE files.</p>
+<p>With further investigation, we believe this attack was aiming at a South Korean company in the aerospace sector. The company is part of a top 10 conglomerate in South Korea, whose business includes aerospace, chemicals, financial services, IT, etc.</p>
+<p>In fact, CloudDragon has been accused of using VPN vulnerabilities to attack numerous entities, including Korean government agencies [1], recently. It is highly possible that they deployed their new malware by the new vulnerability in this case as well. </p>
+<br>
+
+<p>Yet, there are two key factors that might pull the trigger of massive intrusions:</p>
+<ol>
+<li><p>VPN vulnerability</p>
+<p>The VPN market in 2020 is USD $30 billion worldwide. That is, the market is huge and has multiple players inside. It could be a starting point for actors to infiltrate various corporations not only in South Korea, but to the whole world.</p>
+</li>
+<li><p>Sectors involved</p>
+<p>As the identified target involved in crucial sectors, such as IT, it has a great chance to affect hundreds of entities in a short period.</p>
+</li>
+</ol>
+<br>
+
+<p>We strongly advise everyone to take careful attention to CloudDragon&#39;s recent campaign for it might end up a severe supply chain attack.</p>
+<h2 id="reference">Reference</h2>
+<p>[1] <a href="https://biz.chosun.com/policy/politics/2021/06/18/V4DTFCEXPRA4DFCBVVJO3DPR5I/">https://biz.chosun.com/policy/politics/2021/06/18/V4DTFCEXPRA4DFCBVVJO3DPR5I/</a></p>
+<br>
+
+<br>]]>
+        </description>
+    </item>
+      <item>
+        <title>【臺灣資安大會直擊】近期臺灣大型企業接連傳出遭 REvil 攻擊，TeamT5 徹底剖析</title>
+        <link>https://teamt5.org/tw/posts/ithome-cybersec2021-teamt5-takes-deep-dive-into-revil-ransomware</link>
+
+        <pubDate>Wed, 09 Jun 2021 09:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>圖片來源：iThome</p>
+<p>關於 REvil 勒索軟體與其背後組織的來歷與特性，資安業者 TeamT5 近期統整多方面曝光資訊，讓國內對於此攻擊族群可以有更深入的瞭解。該組織採 RaaS 模式經營、最多擁有 80 個合作夥伴，且整體族群手法多元。</p>
+<p>今年上半年，臺灣大型科技業者接連傳出遭遇勒索軟體攻擊，並被駭客要求支付高額贖金，在 3 月下旬到 4 月下旬期間，已曝光的業者就包括：臺灣電腦大廠宏碁，封測大廠日月光集團旗下孫公司 Asteelflash Group，以及筆電代工大廠廣達。</p>
+<p>而這三起事件的共通點，背後都是同一駭客組織所為，其中日月光集團孫公司事發後已公布調查結果，是遭 REvil 勒索軟體攻擊，至於宏碁與廣達的事件，他們雖沒有說明是哪支勒索軟體，但有不少資安專家都明確指出：應是遭到 REvil 勒索軟體攻擊。</p>
+<p>到底這個 REvil 的身分與來歷是什麼？在今年臺灣資安大會上，長期追蹤研究駭客活動的 TeamT5 杜浦數位安全執行長蔡松廷，特別針對 REvil 的背景，將目前已經曝光的資訊做出全面統整，透過對此犯罪組織的側寫與描述，幫助臺灣資安界對 REvil 背後的攻擊族群，能有更全面的了解。</p>
+<p><a href="https://www.ithome.com.tw/news/144900">點此閱讀完整報導</a></p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>Introducing The Most Profitable Ransomware REvil</title>
+        <link>https://teamt5.org/tw/posts/introducing-the-most-profitable-ransomware-revil</link>
+
+        <pubDate>Wed, 02 Jun 2021 02:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://pixabay.com/illustrations/security-hacker-web-security-data-5614016/">Pixabay</a></p>
+<p>In March 2021, another REvil&#39;s attack was announced. Targeting the computer giant Acer, the actors behind the ransomware asked for 50 million dollars, the highest ransom they have demanded so far. Acer was not the only victim of the notorious ransomware. Debuted in April 2019, REvil has attacked hundreds of high-profile agencies in multiple sectors. In 2020, REvil has earned more than 100 million.[1] In this report, we will introduce the basic profile of REvil and share the techniques they used in operations. </p>
+<h2 id="what-is-revil">What is REvil</h2>
+<p>REvil, a.k.a Sodinokibi, is a Ransomware as a Service (RaaS) operation deployed by a Russian cybercrime group named GOLD SOUTHFIELD or Pinchy Spider. The group is believed to be based in Russia, as it does not attack organizations in Post-Soviet States, and refuse to cooperate with English speaking cyber criminals.[2] </p>
+<p>REvil was highly possible the successor of GandCrab, another notorious ransomware, because of code similarities and REvil&#39;s active operations right after GandCrab&#39;s retirement.[3]</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845336/R_Evil_1_035a848033.png" alt="REvil_1.png">
+<em>Figure 1: The timeline of REvil&#39;s appearance and GandCrab&#39;s retirement</em></p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_2_804b2676dc.png" alt="REvil_2.png">
+<em>Figure 2: REvil and GandCrab&#39;s similarity on string decoding</em></p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_3_e9724a2992.png" alt="REvil_3.png">
+<em>Figure 3: REvil and GandCrab&#39;s similarity on building ransom wallpaper</em></p>
+<br>
+
+<p>Numerous campaigns attacking multiple sectors were observed all over the world. The REvil actors has attacked local governments, giant law firms, multinational retailers, etc. The highest ransom they have asked was 42 million for the law firm but was now surpassed by the 50 million Acer attack. (References for the events, please see the end of this page.[4])</p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_4_56bc894487.jpg" alt="REvil__4.jpeg">
+<em>Figure 4: The timeline of REvil&#39;s notorious attacks</em></p>
+<br>
+
+<h2 id="the-ransomware-as-a-service-model-raas">The Ransomware as a Service model (RaaS)</h2>
+<p>The actors of REvil adopt the Ransomware as a Service business model. In this model, Ransomware developers are responsible for development and maintenance of the ransomware, while the groups of cyber criminals, named affiliates in this model, are responsible for accessing victims&#39; system to distribute the ransomware. The business model allows cyber criminals who are not capable of developing their own ransomware to buy the service on dark web and deploy ransomware attack. </p>
+<p>Through this model, REvil actors provide REvil or the customized version of REvil to their affiliates. After they successfully breached victims&#39; systems, REvil actors will ask for ransom by themselves, providing the ransom payment link. After the collection of money, their affiliates will receive 60% to 75% of the profit. Moreover, the actors also provide other paid services, such as money laundering assistance for the affiliates. </p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1620634812/May_blog_3_71c24e74f2.jpg" alt="May_blog_3.jpeg"></p>
+<br>
+
+<h2 id="tactic-techniques-and-procedures">Tactic, Techniques and Procedures</h2>
+<h3 id="initial-access">Initial Access</h3>
+<p>For REvil, different affiliates may use different methods for initial access. The ransomware is now distributed primarily through compromised RDP sessions (65%), phishing (16%), and software vulnerabilities (8%).[5] However, a supply chain attack distributing REvil was also observed.</p>
+<p>REvils&#39; actors said in an interview that they used brute force attacks to compromise RDP sessions.[1] As for phishing emails, the cyber criminals have once disguised their email as a new booking from &quot;booking.com&quot;. They also exploit vulnerabilities. In fact, REvil&#39;s debut was exploiting the Oracle Weblogic vulnerability, CVE-2019-2725. Moreover, the actors are able to deploy new vulnerabilities after its disclosure. For example, the group used the recent disclosed Microsoft Exchange server vulnerability to access Acer&#39;s system.</p>
+<p>The most astounding technique they deployed is supply chain attack. Around June 2019, a WINRAR distributor site in Italy was hacked.[6][7] The software downloaded from the site at that time was not the WINRAR installer but the REvil installer. Although no public announcements showing that any company was infected in this attack, the successful replacement shows that their affiliates were able to deploy a supply chain attack. </p>
+<p>Apart from their various method on initial access, the cyber criminals also adopted several unique techniques. For example, REvil used Elliptic-curve Diffie-Hellman key exchange to encrypt files, while other ransomware often used RSA, Salsa20 or AES to do so. This method is more efficient as it used shorter key and is difficult to decrypt. </p>
+<br>
+
+<h2 id="the-effective-methods-for-ransom-collection">The Effective Methods for Ransom Collection</h2>
+<p>Nowadays, as ransomware attacks become a serious problem, most companies have learned to back up crucial data in case they are hit by a ransomware. However, ransomware actors develop several new methods to ensure that the victims will pay the ransom, including Double-extortion, VoIP calling, and DDoS attack.</p>
+<ul>
+<li><p>&quot;Double-extortion&quot;
+The actors disclose or sell the data of the company if the company is not willing to pay ransom. This method was first introduced by Maze, another notorious ransomware, and currently almost all ransomware actors have adopted this method, and so as REvil. Starting from January 2020, the group runs their own site &quot;Happy Blog&quot;, where they post data extorted from their victims.</p>
+</li>
+<li><p>Voice over Internet Protocol (VoIP) calling
+In February 2021, they announced that they are now offering Voice over Internet Protocol (VoIP) calling and DDoS attack service for their affiliates to make pressure on their victims.[8] They stated that they will call the media or their victims&#39; business partners, telling them about the attack. </p>
+</li>
+</ul>
+<br>
+
+<h2 id="detect-and-defense">Detect and Defense</h2>
+<p>For prevention, it is always crucial to be aware of spamming emails. Nowadays, spamming emails is still the most popular and effective method to access victims&#39; computers. </p>
+<p>In addition, keep an eye on new exploits and updates is also important. Ransomware groups usually are not capable of discovering 0-day exploits by themselves, but they will exploit the disclosed vulnerabilities and attack those who have not updated their system. Thus, keep computers updated and patched systems immediately after the disclosure is essential for preventing ransomware attack.</p>
+<p>Furthermore, as the REvil business grows, the actors behind has posted on dark web to recruit more affiliates for their operations. Thus, more attacks from the group is expected. TeamT5 will keep following the ransomware and provide up-to-date information of the notorious ransomware.</p>
+<p>To efficiently prevent ransomware attacks, TeamT5 offers a total solution for enterprise protection. Our unique ransomware containment technology is proven to successfully block many types of ransomware, which can detect and stop malicious ransomware immediately. And even restore encrypted files from the backup.</p>
+<p>For more information about TeamT5 Ransomware Prevention total solution, please contact: <a href="mailto:&#x73;&#97;&#x6c;&#101;&#115;&#64;&#x74;&#101;&#97;&#109;&#x74;&#x35;&#x2e;&#x6f;&#x72;&#x67;">&#x73;&#97;&#x6c;&#101;&#115;&#64;&#x74;&#101;&#97;&#109;&#x74;&#x35;&#x2e;&#x6f;&#x72;&#x67;</a></p>
+<br>
+
+<h2 id="references">References</h2>
+<p>[1] <a href="https://therecord.media/i-scrounged-through-the-trash-heaps-now-im-a-millionaire-an-interview-with-revils-unknown/">https://therecord.media/i-scrounged-through-the-trash-heaps-now-im-a-millionaire-an-interview-with-revils-unknown/</a></p>
+<p>[2] <a href="https://www.advanced-intel.com/post/inside-revil-extortionist-machine-predictive-insights">https://www.advanced-intel.com/post/inside-revil-extortionist-machine-predictive-insights</a></p>
+<p>[3] <a href="https://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/">https://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/</a></p>
+<p>[4] Texas Municipalities - <a href="https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/">https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/</a>; Backup Company - <a href="https://www.zdnet.com/article/ransomware-hits-hundreds-of-dentist-offices-in-the-us/">https://www.zdnet.com/article/ransomware-hits-hundreds-of-dentist-offices-in-the-us/</a>; Foreign Exchange Company - <a href="https://www.bbc.com/news/business-51017852">https://www.bbc.com/news/business-51017852</a>; US Law Firm - <a href="https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/">https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/</a>; Pan-Asia Retailer - <a href="https://www.bleepingcomputer.com/news/security/pan-asian-retail-giant-dairy-farm-suffers-revil-ransomware-attack/">https://www.bleepingcomputer.com/news/security/pan-asian-retail-giant-dairy-farm-suffers-revil-ransomware-attack/</a></p>
+<p>[5] <a href="https://www.csoonline.com/article/3597298/revil-ransomware-explained-a-widespread-extortion-operation.html">https://www.csoonline.com/article/3597298/revil-ransomware-explained-a-widespread-extortion-operation.html</a></p>
+<p>[6] <a href="https://www.drcommodore.it/2019/06/20/hackerato-winrar-it-malware-al-posto-del-programma/">https://www.drcommodore.it/2019/06/20/hackerato-winrar-it-malware-al-posto-del-programma/</a></p>
+<p>[7] <a href="https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-spreads-wide-via-hacked-msps-sites-and-spam/">https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-spreads-wide-via-hacked-msps-sites-and-spam/</a></p>
+<p>[8] <a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/">https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/</a></p>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【臺灣資安大會直擊】TeamT5 出奇招，將抽象的 APT 駭客組織化身展覽作品</title>
+        <link>https://teamt5.org/tw/posts/ithome-cybersec2021-teamt5-moma</link>
+
+        <pubDate>Mon, 31 May 2021 10:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>為了增進大眾對於 APT 攻擊族群的認識，長期進行駭客追蹤研究的 TeamT5 杜浦數位安全，藉由藝術博物館（MOMA）作品介紹的形式，讓參觀者能夠感到興趣，並簡單認識這些 APT 族群的特性。</p>
+<p>在資安新聞或報告中，可能常常看到某些攻擊事件是由特定駭客組織所為，然而，對於這些駭客組織本身的了解，可能多半不夠深刻，是否有更平易近人的方式，增進大眾對一些駭客組織的認識呢？</p>
+<p>事實上，網路攻擊日益複雜，這些有組織的駭客團體，花了很多心力瞭解可能是攻擊目標的你我，但是，相對地，整個公眾對這些駭客組織有概括性的了解嗎？長期進行駭客追蹤研究的 TeamT5 杜浦數位安全，在本月舉行的 2021 臺灣資安大會展區上，特別用上類似藝術展覽的形式，讓參觀的人能從不一樣的視角，認識幾個不可不知的APT攻擊團體，掌握其特性。</p>
+<p>在這樣的展區中，TeamT5 打造出有如現代藝術博物館（MOMA）的布置場景，擺放著4件作品，將原本抽象的攻擊族群，具現為某種裝置藝術品來展示，同時，一旁的牆面上，也有著對於 APT 族群一詞的中英文介紹，說明每個 APT 族群都有自己的地域性與慣用的攻擊手法，以及經常鎖定的國家與產業。</p>
+<p>在現場擺設的這些創作中，連結的 APT 攻擊族群共有 4 個，包括：Lazarus、HUAPI、AMOEBA 與 Nian。目的就是希望將這些壞人（駭客組織）的特徵實體化，讓企業用戶能夠知道，他們到底是面對什麼樣的敵人，這些壞人有什麼樣的特徵或能力。</p>
+<p><a href="https://www.ithome.com.tw/news/144717?fbclid=IwAR3EmZoOA_HlreIov_84clZasdSfEH7HqPTZldHK39raXBd6pwgkmYsnw4U">點此閱讀完整報導</a></p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【臺灣資安大會】TeamT5 對抗勒索，攻擊全面防堵</title>
+        <link>https://teamt5.org/tw/posts/cybersec-2021-teamt5-announces-ransomware-prevention-solution</link>
+
+        <pubDate>Tue, 18 May 2021 04:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<br>
+
+<p>一年一度的 CYBERSEC 2021 臺灣資安大會於 5 月 4 日至 6 日在南港展覽二館圓滿落幕，TeamT5 杜浦數位安全（以下簡稱 TeamT5）今年以三大重點參展：「最佳夥伴」、「對抗勒索」、「情資決勝」，在網路攻擊不斷轉型、進化的今日，TeamT5 將成為您最可靠的盟友，共同對抗網路威脅。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621322561/AX_1_9828_23b4ad3bf5.jpg" alt="AX1_9828.jpg">
+<em>TeamT5 杜浦數位安全提供對抗勒索攻擊的最佳解方，以及研究量能最豐富的威脅情資，幫助企業對抗網路威脅</em></p>
+<br>
+
+<p>面對近年來國際間頻繁發生的加密勒索資安事件，攻擊手法與目標對象逐漸轉型，使得勒索攻擊成為當前企業最擔憂的網路威脅。TeamT5 長年研究、追蹤進階持續性攻擊（Advanced Persistent Threat, APT），在本次資安大會上，我們獨家公開全新升級的 ThreatSonar 威脅補網，提出對抗勒索攻擊的防護解方。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621322561/AX_0_6835_790f9537f0.jpg" alt="AX0_6835.jpg">
+<em>TeamT5 首席架構師 Nanika 向大家介紹 ThreatSonar 全面升級的勒索防堵策略</em></p>
+<br>
+
+<p>TeamT5 提出「勒索全面防堵」策略，我們的 ThreatSonar 威脅狩獵解決方案，能夠有效偵測 APT 針對型攻擊，與既有資安解決方案互補而非取代，成為企業在資安攻防的強力守護神。以事件處理的角度來看，勒索軟體與 APT 攻擊事件幾近相同，唯一不同之處在於攻擊者會藉此勒索受害者、獲取贖金，唯有全面性解決，才能讓人員更有效進行處理，在防堵的同時擬定執行策略。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621324929/P_20210506_133205_1805110f15.jpg" alt="P_20210506_133205.jpg">
+<em>TeamT5 技術長暨首席分析師 Charles 與 IR 專家 Zha0，介紹利用威脅情資掌握攻擊者動向的重要性，以達到超前部署的防護</em></p>
+<br>
+
+<p>此外，今年最受矚目的參展亮點還有「TeamT5 MoMA 攻擊族群博物館」，以及 TeamT5 獨家打造的「1337 Operation」搜索實境遊戲。蔡英文總統與各部會長官也親臨攤位參觀，由 TeamT5 執行長蔡松廷（ TT）帶領導覽，介紹我們如何以更貼近、淺顯易懂的方式，將神秘的駭客攻擊族群具象化為藝術品。更特別的是，我們將攻擊族群博物館連結搜索實境遊戲關卡，以逼真的勒索軟體事件調查遊戲情境，讓玩家實際體驗企業受害與追查駭客的過程。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621326181/_e8ae0b779f.jpg" alt="經濟部工業局提供.jpg">
+<em>執行長蔡松廷向蔡英文總統與各部會長官們導覽「TeamT5 MoMA 攻擊族群博物館」，介紹我們如何透過將抽象的攻擊族群具象化為藝術品的方式，讓大家更深入了解 APT 族群的特性。（圖片來源：<a href="https://www.facebook.com/moeaidb/photos/pcb.1996144607216335/1996143887216407">經濟部工業局</a>授權使用）</em></p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621326184/IMG_0462_fb0cf9e235.jpg" alt="IMG_0462.JPG">
+<em>TeamT5 獨家設計的搜索實境遊戲，只要一支手機，玩家就可以化身探員，實際體驗追查駭客的過程</em></p>
+<br>
+
+<p>為期三天的展會中，TeamT5 透過大會多場精彩議程、CyberLAB 技術課程，以及我們精心策劃的攤位主題限定講座，帶給所有前來參展的來賓充實的技術分享與交流。兩場 TeamT5 專家座談「資安海外拓展交流」和「難纏的勒索軟體與對抗經驗」，也邀請多位資安專家與研究人員到場分享相關經驗與知識，獲得許多與會來賓的正向回饋。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621322565/IMG_0336_5c72d3f9f7.jpg" alt="IMG_0336.JPG">
+<img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621322561/AX_0_7203_f8a4840a25.jpg" alt="AX0_7203.jpg">
+<em>TeamT5 獨家邀請到多位資安專家，在兩場攤位限定專家座談中，和大家分享資安海外拓展以及勒索軟體的對抗經驗，吸引許多參展來賓參與討論交流</em></p>
+<br>
+
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【BlackHat Asia】TeamT5 研究員登上亞洲黑帽安全大會</title>
+        <link>https://teamt5.org/tw/posts/teamt5-on-black-hat-asia-2021</link>
+
+        <pubDate>Wed, 12 May 2021 03:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>圖片來源：<a href="https://www.blackhat.com/asia-21/">Black Hat</a></p>
+<p>全球資安盛會「亞洲黑帽安全大會」（Black Hat Asia, BHASIA）今年以線上方式舉辦，自 2021 年 5 月 4 日至 7 日（新加坡時間 UTC+8），為期四天的精彩議程（Black Hat Briefing）、專業深入培訓（Training），以及最新開源駭客工具的展示（Black Hat Arsenal），由頂尖資訊安全專家們傳授最新、第一手的技術與研究發現。</p>
+<p>TeamT5 威脅情資研究員們也登上今年的 BHASIA，發表兩場最新研究，與世界各地的資安研究人員交流最新的資訊安全風險、研究與趨勢。「<a href="https://www.blackhat.com/asia-21/briefings/schedule/#memimg-memory-resident-malware-detection-via-convolution-neural-network-22262">Mem2Img: Memory-Resident Malware Detection via Convolution Neural Network</a>」由 TeamT5 技術長 Charles 與惡意程式研究員 Aragorn 介紹過去一年間發現的 APT 新攻擊手法，並發表他們基於 Mem2Img 框架的研究如何面對日新月異的惡意程式變種與變形，以及可能面臨的攻擊。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1620721192/Mem2_Img_7e094e8568.png" alt="Mem2Img.png">
+<em>TeamT5 研究員發表基於 Mem2Img 框架如何分類記憶體中的惡意程式，並提出該框架可能面臨的攻擊。</em></p>
+<br>
+
+<p>另一場演講「<a href="https://www.blackhat.com/asia-21/briefings/schedule/index.html#we-are-about-to-land-how-clouddragon-turns-a-nightmare-into-reality-22252">“We Are About to Land”: How CloudDragon Turns a Nightmare Into Reality</a>」，則由我們的資深威脅情資分析師 Linda 與惡意程式研究員 DuckLL，獨家揭露 TeamT5 持續追蹤的北韓 APT 攻擊族群 CloudDragon 的攻擊行為與入侵的防禦偵測手法，包括該族群如何分群的介紹，以及三大亮點：加密貨幣產業的供應鏈攻擊（supply chain attack）、跨平台的惡意軟體攻擊、自動化更新的釣魚網頁內容。</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1620719929/who_is_Cloud_Dragon_1_2f78c12676.png" alt="who_is_CloudDragon_1.png">
+<em>TeamT5 威脅情資研究員向大家介紹 CloudDragon 為何分群以及如何分群</em></p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1620724347/clouddragon_2_e8856cbe0a.png" alt="clouddragon_2.png">
+<em>CloudDragon 利用包括韓國本土與世界性的網路服務提供商進行惡意攻擊</em></p>
+<br>
+
+<h2 id="關於黑帽">關於黑帽</h2>
+<p>黑帽大會（Black Hat）每年聚集全球資訊安全專家、優秀研究人員於一堂，透過資安研究、開發與最新趨勢交流，鼓勵學術界、世界級研究人員與各領域決策及領導者間的合作、成長。黑帽簡報會（Black Hat Briefing）與培訓（Training）每年也都在美國、歐洲與亞洲舉行，匯集全球資安頂尖人員參與盛會。</p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【Korea Boannews】TeamT5 Announces Latest Attack Trend of "Kimsuky" Group at Black Hat Asia</title>
+        <link>https://teamt5.org/tw/posts/teamt5-announces-latest-attack-trend-of-kimsuky-group-at-blackhat-asia</link>
+
+        <pubDate>Tue, 11 May 2021 05:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://www.blackhat.com/asia-21/">Black Hat</a></p>
+<p>TeamT5, a Taiwanese cyber threat investigation company, shared the results of a recent study on the North Korean Kimsuky group at the &quot;Black Hat Asia Conference&quot; held in Singapore last week. The Kimsuky group is already widely known and is a group that the US CISA has jointly specified with related organizations such as the FBI, and TeamT5&#39;s research is the industry&#39;s first presentation on Kimsuky this year.</p>
+<p>TeamT5 revealed that the Kimsuky group was separated from a single group and divided into two groups, and it seems that each is operated separately for different targets. TeamT5 named them &quot;CloudDragon&quot; and &quot;KimDragon&quot; respectively, and introduced the target countries and hacking tools.</p>
+<p>TeamT5 announced for the first time that the Kimsuky group is focusing on supply chain attacks. The target is cryptocurrency, and the digital wallet of the exchange and its owner. To this end, the Kimsuky group uses a wide range of operating system combinations of PC, Android, and iOS. Currently, portal companies are concentrating on cross-authentication of PC and mobile at the same time for user authentication, so that the same malicious code can be operated in different environments.</p>
+<p>TeamT5 researchers schematically presented evidence of the involvement of Kimsuky&#39;s group in the domestic cryptocurrency hacking case last October. According to this, it is known that the stolen cryptocurrency was transferred to a Dutch IP address and used for laundry. Even hardware wallets known to be secure appear to have been hacked.</p>
+<p>In addition, they also announced that they are mainly targeting fake login-inducing accounts on portal sites such as Daum, Naver, and Google. Users can receive new user credentials update emails through bait files and hacked websites. Even Microsoft Windows update notifications were used in preliminary attacks. University login websites such as University Y, University E, and University D located in Seoul were used for hacking.</p>
+<p>It was found that the Kimsuky group shifted its focus to not only PC but also mobile environment attacks. Their so-called &quot;hidden&quot; agents create SMS messages without the knowledge of cell phone victims, send written texts, and upload files. It means that you can do anything with a controlled phone, regardless of the user&#39;s will, such as taking audio or video. If cryptocurrency is stored on a mobile phone or log in through a mobile phone, it can be too easily exposed to hacking.</p>
+<p>S&amp;C CEO Han Eun-hye, who is servicing the intelligence information of TeamT5 in Korea, said, &quot;It is time to detect their movements in advance based on a database that has been tracking the activities of individual hacker groups for a long time to deal with cybersecurity.&quot; It is necessary to respond to cyber attacks in the future by acquiring intelligence information specific to Asia from among the intelligence information.”</p>
+<p><a href="https://www.boannews.com/media/view.asp?idx=97353">Read Full Story</a></p>
+<br>
+]]>
+        </description>
+    </item>
+    </channel>
+  </rss>

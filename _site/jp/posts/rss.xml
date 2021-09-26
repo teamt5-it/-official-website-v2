@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+  <rss version="2.0">
+    <channel>
+        <title>Team T5 Blog</title>
+        <link>https://teamt5.org/jp/blog</link>
+        <description>TeamT5 Blog</description>
+        <language>en</language>
+        <lastBuildDate>Tue, 21 Sep 2021 11:30:00 GMT</lastBuildDate>
+          
+      <item>
+        <title>当社に関する偽情報の流布及び誹謗中傷への対応について</title>
+        <link>https://teamt5.org/jp/posts/clarification-on-malicious-disinformation-targeting-teamt5</link>
+
+        <pubDate>Tue, 21 Sep 2021 11:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://www.freepik.com/">Freepik</a></p>
+<p>TeamT5（以下、当社）は、ある特定のコンテンツファームが、当社が日本政府及び日本国内のIT企業に対してフィッシング攻撃を行い、個人情報を大量に収集しているとの事実に反する偽情報を流布していることを発見いたしました。該当の偽情報は、コンテンツファーム・ビジネスの仕組みを熟知し、悪用する行為者によって、当社および台湾政府の名誉もしくは信用を毀損することを目的に配布されたものです。</p>
+<p>本声明を通じて、当社は、該当記事によって流布された内容が事実無根のものであり、一切事実ではないことをお伝えいたします。当社はこれまでいかなるサイバー攻撃にも関与したことはなく、また、第三者からサイバー攻撃の依頼を請け負ったこともありません。</p>
+<p>今回のディスインフォメーション攻撃は、当社がこれまで観測してきた国家主導の情報工作の戦術、技術、手順（TTPs）と合致するものです。この記事には複数の文法上の誤りや中国語（簡体字）の利用などが確認できることから、日本語を母語としない筆者によって記述された可能性が高く、日本人になりすまして投稿されたものと考えられます。当社は、事態の全容解明に向け、すべての情報を台湾及び日本の法執行機関に提供し、引き続き調査を進めております。</p>
+<p>創業以来、当社は、あらゆる種類のサイバー攻撃からクライアントの皆様やパートナー各社様の安全確保に貢献し、セキュリティ対策強化の一助となるよう努めてまいりました。当社が、当社の製品及びリソースを用いてサイバー攻撃を実施、或いは請け負ったことはなく、今後もありません。</p>
+<p>本件に関するご質問等につきましては次のメールアドレス（<a href="mailto:&#112;&#x72;&#64;&#116;&#101;&#97;&#x6d;&#x74;&#53;&#46;&#111;&#114;&#x67;">&#112;&#x72;&#64;&#116;&#101;&#97;&#x6d;&#x74;&#53;&#46;&#111;&#114;&#x67;</a>）までお問い合わせくださいますようお願い申し上げます。</p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>Another CloudDragon attack abusing VPN zero-day vulnerability to target South Korean entities</title>
+        <link>https://teamt5.org/jp/posts/another-clouddragon-attack-abusing-vpn-zero-day-vulnerability-to-target-south-korean-entities</link>
+
+        <pubDate>Thu, 01 Jul 2021 02:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://pixabay.com/illustrations/north-korea-dprk-korea-juche-asia-1151137/">Pixabay</a></p>
+<p>The North Korean APT group CloudDragon, also known as Kimsuky, continues to target South Korean governments and organizations. TeamT5 has been actively monitoring this threat actor and we recently discovered CloudDragon abusing VPN zero-day vulnerability to launch a new attack against South Korean entities.</p>
+<p>TeamT5 recently discovered two malicious samples circulating in South Korea, and both samples are installers of a newly identified backdoor which we named MemzipRAT. With further investigation, we believe this attack was aiming at a South Korean company in the aerospace sector. The company is part of a top 10 conglomerate in South Korea, whose business includes aerospace, chemicals, financial services, IT, etc. </p>
+<p>In fact, CloudDragon has been accused of using VPN vulnerabilities to attack numerous entities recently, including Korean government agencies. According to TeamT5’s threat intelligence, we hold high confidence that the above malware to be follow-up attacks of the disclosed attack campaign conducted by CloudDragon. As the exploitation starts from a popular VPN system, these campaigns might lead to massive attacks and damage in the near future. And TeamT5 will keep taking careful attention to CloudDragon&#39;s recent campaign for it might end up a severe supply chain attack.</p>
+<br>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>CloudDragon's Campaign: VPN Zero-day Vulnerability + New Backdoor</title>
+        <link>https://teamt5.org/jp/posts/clouddragon-campaign-vpn-zero-day-vulnerability-new-backdoor</link>
+
+        <pubDate>Wed, 30 Jun 2021 10:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://pixabay.com/photos/flag-banner-nation-emblem-country-2528969/">Pixabay</a></p>
+<p>TeamT5 recently discovered two installers of a newly identified backdoor which we named MemzipRAT. The backdoor is named after an embedded string &quot;get module from cmd memzip : %d&quot; inside the PE files.</p>
+<p>With further investigation, we believe this attack was aiming at a South Korean company in the aerospace sector. The company is part of a top 10 conglomerate in South Korea, whose business includes aerospace, chemicals, financial services, IT, etc.</p>
+<p>In fact, CloudDragon has been accused of using VPN vulnerabilities to attack numerous entities, including Korean government agencies [1], recently. It is highly possible that they deployed their new malware by the new vulnerability in this case as well. </p>
+<br>
+
+<p>Yet, there are two key factors that might pull the trigger of massive intrusions:</p>
+<ol>
+<li><p>VPN vulnerability</p>
+<p>The VPN market in 2020 is USD $30 billion worldwide. That is, the market is huge and has multiple players inside. It could be a starting point for actors to infiltrate various corporations not only in South Korea, but to the whole world.</p>
+</li>
+<li><p>Sectors involved</p>
+<p>As the identified target involved in crucial sectors, such as IT, it has a great chance to affect hundreds of entities in a short period.</p>
+</li>
+</ol>
+<br>
+
+<p>We strongly advise everyone to take careful attention to CloudDragon&#39;s recent campaign for it might end up a severe supply chain attack.</p>
+<h2 id="reference">Reference</h2>
+<p>[1] <a href="https://biz.chosun.com/policy/politics/2021/06/18/V4DTFCEXPRA4DFCBVVJO3DPR5I/">https://biz.chosun.com/policy/politics/2021/06/18/V4DTFCEXPRA4DFCBVVJO3DPR5I/</a></p>
+<br>
+
+<br>]]>
+        </description>
+    </item>
+      <item>
+        <title>Introducing The Most Profitable Ransomware REvil</title>
+        <link>https://teamt5.org/jp/posts/introducing-the-most-profitable-ransomware-revil</link>
+
+        <pubDate>Wed, 02 Jun 2021 02:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://pixabay.com/illustrations/security-hacker-web-security-data-5614016/">Pixabay</a></p>
+<p>In March 2021, another REvil&#39;s attack was announced. Targeting the computer giant Acer, the actors behind the ransomware asked for 50 million dollars, the highest ransom they have demanded so far. Acer was not the only victim of the notorious ransomware. Debuted in April 2019, REvil has attacked hundreds of high-profile agencies in multiple sectors. In 2020, REvil has earned more than 100 million.[1] In this report, we will introduce the basic profile of REvil and share the techniques they used in operations. </p>
+<h2 id="what-is-revil">What is REvil</h2>
+<p>REvil, a.k.a Sodinokibi, is a Ransomware as a Service (RaaS) operation deployed by a Russian cybercrime group named GOLD SOUTHFIELD or Pinchy Spider. The group is believed to be based in Russia, as it does not attack organizations in Post-Soviet States, and refuse to cooperate with English speaking cyber criminals.[2] </p>
+<p>REvil was highly possible the successor of GandCrab, another notorious ransomware, because of code similarities and REvil&#39;s active operations right after GandCrab&#39;s retirement.[3]</p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845336/R_Evil_1_035a848033.png" alt="REvil_1.png">
+<em>Figure 1: The timeline of REvil&#39;s appearance and GandCrab&#39;s retirement</em></p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_2_804b2676dc.png" alt="REvil_2.png">
+<em>Figure 2: REvil and GandCrab&#39;s similarity on string decoding</em></p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_3_e9724a2992.png" alt="REvil_3.png">
+<em>Figure 3: REvil and GandCrab&#39;s similarity on building ransom wallpaper</em></p>
+<br>
+
+<p>Numerous campaigns attacking multiple sectors were observed all over the world. The REvil actors has attacked local governments, giant law firms, multinational retailers, etc. The highest ransom they have asked was 42 million for the law firm but was now surpassed by the 50 million Acer attack. (References for the events, please see the end of this page.[4])</p>
+<br>
+
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1621845337/R_Evil_4_56bc894487.jpg" alt="REvil__4.jpeg">
+<em>Figure 4: The timeline of REvil&#39;s notorious attacks</em></p>
+<br>
+
+<h2 id="the-ransomware-as-a-service-model-raas">The Ransomware as a Service model (RaaS)</h2>
+<p>The actors of REvil adopt the Ransomware as a Service business model. In this model, Ransomware developers are responsible for development and maintenance of the ransomware, while the groups of cyber criminals, named affiliates in this model, are responsible for accessing victims&#39; system to distribute the ransomware. The business model allows cyber criminals who are not capable of developing their own ransomware to buy the service on dark web and deploy ransomware attack. </p>
+<p>Through this model, REvil actors provide REvil or the customized version of REvil to their affiliates. After they successfully breached victims&#39; systems, REvil actors will ask for ransom by themselves, providing the ransom payment link. After the collection of money, their affiliates will receive 60% to 75% of the profit. Moreover, the actors also provide other paid services, such as money laundering assistance for the affiliates. </p>
+<p><img src="https://res.cloudinary.com/dvgomg5gh/image/upload/v1620634812/May_blog_3_71c24e74f2.jpg" alt="May_blog_3.jpeg"></p>
+<br>
+
+<h2 id="tactic-techniques-and-procedures">Tactic, Techniques and Procedures</h2>
+<h3 id="initial-access">Initial Access</h3>
+<p>For REvil, different affiliates may use different methods for initial access. The ransomware is now distributed primarily through compromised RDP sessions (65%), phishing (16%), and software vulnerabilities (8%).[5] However, a supply chain attack distributing REvil was also observed.</p>
+<p>REvils&#39; actors said in an interview that they used brute force attacks to compromise RDP sessions.[1] As for phishing emails, the cyber criminals have once disguised their email as a new booking from &quot;booking.com&quot;. They also exploit vulnerabilities. In fact, REvil&#39;s debut was exploiting the Oracle Weblogic vulnerability, CVE-2019-2725. Moreover, the actors are able to deploy new vulnerabilities after its disclosure. For example, the group used the recent disclosed Microsoft Exchange server vulnerability to access Acer&#39;s system.</p>
+<p>The most astounding technique they deployed is supply chain attack. Around June 2019, a WINRAR distributor site in Italy was hacked.[6][7] The software downloaded from the site at that time was not the WINRAR installer but the REvil installer. Although no public announcements showing that any company was infected in this attack, the successful replacement shows that their affiliates were able to deploy a supply chain attack. </p>
+<p>Apart from their various method on initial access, the cyber criminals also adopted several unique techniques. For example, REvil used Elliptic-curve Diffie-Hellman key exchange to encrypt files, while other ransomware often used RSA, Salsa20 or AES to do so. This method is more efficient as it used shorter key and is difficult to decrypt. </p>
+<br>
+
+<h2 id="the-effective-methods-for-ransom-collection">The Effective Methods for Ransom Collection</h2>
+<p>Nowadays, as ransomware attacks become a serious problem, most companies have learned to back up crucial data in case they are hit by a ransomware. However, ransomware actors develop several new methods to ensure that the victims will pay the ransom, including Double-extortion, VoIP calling, and DDoS attack.</p>
+<ul>
+<li><p>&quot;Double-extortion&quot;
+The actors disclose or sell the data of the company if the company is not willing to pay ransom. This method was first introduced by Maze, another notorious ransomware, and currently almost all ransomware actors have adopted this method, and so as REvil. Starting from January 2020, the group runs their own site &quot;Happy Blog&quot;, where they post data extorted from their victims.</p>
+</li>
+<li><p>Voice over Internet Protocol (VoIP) calling
+In February 2021, they announced that they are now offering Voice over Internet Protocol (VoIP) calling and DDoS attack service for their affiliates to make pressure on their victims.[8] They stated that they will call the media or their victims&#39; business partners, telling them about the attack. </p>
+</li>
+</ul>
+<br>
+
+<h2 id="detect-and-defense">Detect and Defense</h2>
+<p>For prevention, it is always crucial to be aware of spamming emails. Nowadays, spamming emails is still the most popular and effective method to access victims&#39; computers. </p>
+<p>In addition, keep an eye on new exploits and updates is also important. Ransomware groups usually are not capable of discovering 0-day exploits by themselves, but they will exploit the disclosed vulnerabilities and attack those who have not updated their system. Thus, keep computers updated and patched systems immediately after the disclosure is essential for preventing ransomware attack.</p>
+<p>Furthermore, as the REvil business grows, the actors behind has posted on dark web to recruit more affiliates for their operations. Thus, more attacks from the group is expected. TeamT5 will keep following the ransomware and provide up-to-date information of the notorious ransomware.</p>
+<p>To efficiently prevent ransomware attacks, TeamT5 offers a total solution for enterprise protection. Our unique ransomware containment technology is proven to successfully block many types of ransomware, which can detect and stop malicious ransomware immediately. And even restore encrypted files from the backup.</p>
+<p>For more information about TeamT5 Ransomware Prevention total solution, please contact: <a href="mailto:&#x73;&#97;&#x6c;&#101;&#115;&#x40;&#116;&#101;&#97;&#109;&#x74;&#53;&#46;&#111;&#114;&#103;">&#x73;&#97;&#x6c;&#101;&#115;&#x40;&#116;&#101;&#97;&#109;&#x74;&#53;&#46;&#111;&#114;&#103;</a></p>
+<br>
+
+<h2 id="references">References</h2>
+<p>[1] <a href="https://therecord.media/i-scrounged-through-the-trash-heaps-now-im-a-millionaire-an-interview-with-revils-unknown/">https://therecord.media/i-scrounged-through-the-trash-heaps-now-im-a-millionaire-an-interview-with-revils-unknown/</a></p>
+<p>[2] <a href="https://www.advanced-intel.com/post/inside-revil-extortionist-machine-predictive-insights">https://www.advanced-intel.com/post/inside-revil-extortionist-machine-predictive-insights</a></p>
+<p>[3] <a href="https://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/">https://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/</a></p>
+<p>[4] Texas Municipalities - <a href="https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/">https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/</a>; Backup Company - <a href="https://www.zdnet.com/article/ransomware-hits-hundreds-of-dentist-offices-in-the-us/">https://www.zdnet.com/article/ransomware-hits-hundreds-of-dentist-offices-in-the-us/</a>; Foreign Exchange Company - <a href="https://www.bbc.com/news/business-51017852">https://www.bbc.com/news/business-51017852</a>; US Law Firm - <a href="https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/">https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/</a>; Pan-Asia Retailer - <a href="https://www.bleepingcomputer.com/news/security/pan-asian-retail-giant-dairy-farm-suffers-revil-ransomware-attack/">https://www.bleepingcomputer.com/news/security/pan-asian-retail-giant-dairy-farm-suffers-revil-ransomware-attack/</a></p>
+<p>[5] <a href="https://www.csoonline.com/article/3597298/revil-ransomware-explained-a-widespread-extortion-operation.html">https://www.csoonline.com/article/3597298/revil-ransomware-explained-a-widespread-extortion-operation.html</a></p>
+<p>[6] <a href="https://www.drcommodore.it/2019/06/20/hackerato-winrar-it-malware-al-posto-del-programma/">https://www.drcommodore.it/2019/06/20/hackerato-winrar-it-malware-al-posto-del-programma/</a></p>
+<p>[7] <a href="https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-spreads-wide-via-hacked-msps-sites-and-spam/">https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-spreads-wide-via-hacked-msps-sites-and-spam/</a></p>
+<p>[8] <a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/">https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/</a></p>
+]]>
+        </description>
+    </item>
+      <item>
+        <title>【Korea Boannews】TeamT5 Announces Latest Attack Trend of "Kimsuky" Group at Black Hat Asia</title>
+        <link>https://teamt5.org/jp/posts/teamt5-announces-latest-attack-trend-of-kimsuky-group-at-blackhat-asia</link>
+
+        <pubDate>Tue, 11 May 2021 05:00:00 GMT</pubDate>
+        <description>
+        <![CDATA[<p>*Image courtesy of <a href="https://www.blackhat.com/asia-21/">Black Hat</a></p>
+<p>TeamT5, a Taiwanese cyber threat investigation company, shared the results of a recent study on the North Korean Kimsuky group at the &quot;Black Hat Asia Conference&quot; held in Singapore last week. The Kimsuky group is already widely known and is a group that the US CISA has jointly specified with related organizations such as the FBI, and TeamT5&#39;s research is the industry&#39;s first presentation on Kimsuky this year.</p>
+<p>TeamT5 revealed that the Kimsuky group was separated from a single group and divided into two groups, and it seems that each is operated separately for different targets. TeamT5 named them &quot;CloudDragon&quot; and &quot;KimDragon&quot; respectively, and introduced the target countries and hacking tools.</p>
+<p>TeamT5 announced for the first time that the Kimsuky group is focusing on supply chain attacks. The target is cryptocurrency, and the digital wallet of the exchange and its owner. To this end, the Kimsuky group uses a wide range of operating system combinations of PC, Android, and iOS. Currently, portal companies are concentrating on cross-authentication of PC and mobile at the same time for user authentication, so that the same malicious code can be operated in different environments.</p>
+<p>TeamT5 researchers schematically presented evidence of the involvement of Kimsuky&#39;s group in the domestic cryptocurrency hacking case last October. According to this, it is known that the stolen cryptocurrency was transferred to a Dutch IP address and used for laundry. Even hardware wallets known to be secure appear to have been hacked.</p>
+<p>In addition, they also announced that they are mainly targeting fake login-inducing accounts on portal sites such as Daum, Naver, and Google. Users can receive new user credentials update emails through bait files and hacked websites. Even Microsoft Windows update notifications were used in preliminary attacks. University login websites such as University Y, University E, and University D located in Seoul were used for hacking.</p>
+<p>It was found that the Kimsuky group shifted its focus to not only PC but also mobile environment attacks. Their so-called &quot;hidden&quot; agents create SMS messages without the knowledge of cell phone victims, send written texts, and upload files. It means that you can do anything with a controlled phone, regardless of the user&#39;s will, such as taking audio or video. If cryptocurrency is stored on a mobile phone or log in through a mobile phone, it can be too easily exposed to hacking.</p>
+<p>S&amp;C CEO Han Eun-hye, who is servicing the intelligence information of TeamT5 in Korea, said, &quot;It is time to detect their movements in advance based on a database that has been tracking the activities of individual hacker groups for a long time to deal with cybersecurity.&quot; It is necessary to respond to cyber attacks in the future by acquiring intelligence information specific to Asia from among the intelligence information.”</p>
+<p><a href="https://www.boannews.com/media/view.asp?idx=97353">Read Full Story</a></p>
+<br>
+]]>
+        </description>
+    </item>
+    </channel>
+  </rss>
